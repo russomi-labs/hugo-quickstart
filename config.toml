@@ -1,0 +1,5 @@
+baseURL = "russomi-labs.github.io/hugo-quickstart"
+languageCode = "en-us"
+title = "hugo-quickstart"
+theme = "ananke"
+publishdir = "public"
